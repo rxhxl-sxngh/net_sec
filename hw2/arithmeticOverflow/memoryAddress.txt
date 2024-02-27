@@ -1,0 +1,4 @@
+sizes array - 0x0804a060
+win function - 0x080485e6
+scanf GOT - 0x0804a028
+Wrap around address of scanf - 0xFFFFFFC7
